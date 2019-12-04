@@ -5,14 +5,14 @@
 // To restart press CTRL + C in terminal and run `gridsome develop`
 
 module.exports = {
-  siteName: 'Runaway Next Blog',
+  siteName: 'Run Away Next ',
   plugins: [
     {
       use: '@gridsome/source-filesystem',
       options: {
         path: 'posts/*.md',
         typeName: 'WebPost',
-        route: '/:slug',
+        route: '/:title'
       }
     }
   ],
