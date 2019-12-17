@@ -10,9 +10,9 @@ module.exports = {
     {
       use: '@gridsome/source-filesystem',
       options: {
-        path: 'posts/*.md',
-        typeName: 'WebPost',
-        route: '/:title'
+        path: 'content/posts/**/*.md',
+        typeName: 'Post',
+        route: 'blog/:slug',
       }
     }
   ],

@@ -11,12 +11,13 @@
   </Layout>
 </template>
 <page-query>
-query WebPost ($path: String!) {
-   post: post (path: $path) {
-    id
-    title
-    content
-    date (format: "D MMMM YYYY")
+query Post ($path: String!) {
+  post: post (path: $path) {
+      id
+      title
+      path
+      date 
+      content
   }
 }
 </page-query>

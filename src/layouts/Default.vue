@@ -4,19 +4,20 @@
       <div class="dropdown">
       <button class="dropbtn"><font-awesome :icon="['fas', 'bars']" /></button>
       <div class="dropdown-content">      
-        <a href=".">Home</a>
-        <a href="./about">About</a>
-        <a href="./blog">Blog</a>
+        <a href="/">Home</a>
+        <a href="/about">About</a>
+        <a href="/blog">Blog</a>
         <a href="">Trip Planning</a>
         <a href="">Web Development</a>
-        <a href="">Contact</a>
+        <a href="/contact">Contact</a>
       </div>
       </div>     
-      <a href=".">
+      <a href="/">
       <div id="logo">
-        <g-image id="img" src="~/assets/logo.png" width="200"/>
+        <g-image id="img" src="~/assets/logo.jpg" width="200"/>
       </div>
-      </a>     
+      </a>  
+        <h2 id="phrase">Where will you run away next?</h2>   
     </header>
       <slot/>
     <footer>
@@ -28,11 +29,13 @@
 
 <style>
 .Layout{
-  margin: 10px 20px;
+  margin: 10px 15px;
   padding: 10px;
   background-color: rgb(235, 235, 235);
-  color: rgb(13, 13, 46);
+  color: rgb(10, 10, 49);
+  text-align: center;
 }
+
 img{
   width: auto;
   height: 100%;
@@ -50,14 +53,18 @@ footer{
   margin: 50px;
   text-align: center;
 }
+#phrase{
+  font-family: 'Kaushan Script', cursive;
+  font-size: 28pt;
+}
 @media (max-width: 768px){
 button{
-  color: rgb(13, 13, 46);
+  color: rgb(10, 10, 66);
   border: none;
   
 }
 .dropbtn {
-  color: rgb(13, 13, 46);
+  color: rgb(10, 10, 66);
   padding: 10px;
   font-size: 12pt;
   border: none;
@@ -84,12 +91,18 @@ button{
 .dropdown:hover .dropbtn {background-color: #808080;}
 }
 a{
-  padding: 20px;
+  padding: 15px 0px;
+  margin: 0px 20px;
   text-decoration: none;
-  color: rgb(13, 13, 46);
+  color: rgb(10, 10, 66);
+  font-size: 13pt;
+}
+.dropdown-content a:hover{
+  color:rgb(255, 167, 4);
+  border-bottom: 2px solid rgb(255, 167, 4);
 }
 a:hover{
-  color:rgb(248, 187, 19);
+  color:rgb(255, 167, 4);
 }
 @media(min-width: 768px){
 
@@ -107,8 +120,18 @@ a:hover{
   }
   .dropdown-content{
     float: right;
+
   }
 
+  #title{
+    text-align: center;
+    padding: 10px;
+    margin-top: 40px;
+  }
+  #phrase{
+    text-align: right;
+    padding: 40px;
+  }
 }
 </style>
 

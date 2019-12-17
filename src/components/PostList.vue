@@ -1,8 +1,7 @@
 <template> 
   <div class="post-list">
-    <hr class="line">
-    <p class="date" v-html="post.date"/>
     <g-link :to="post.path"><h3 class="title" v-html="post.title"/></g-link>
+    <p class="date" v-html="post.date"/>
     <p class="description" v-html="post.description"/>
     <g-link :to="post.path" class="read">Read More </g-link>
   </div>
@@ -13,10 +12,10 @@ export default {
 };
 </script>
 <style scoped>
-  ul{
-    list-style-type: none;
-  }
-  li{
-    padding: 20px;
-  }
+.post-list{
+  border-top: 1px solid rgb(0, 0, 87, 0.7);
+
+}
+ @media (min-width: 768px){
+ }
 </style>

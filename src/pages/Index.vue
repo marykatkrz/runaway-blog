@@ -1,11 +1,12 @@
 <template>
   <div>   
     <Layout>
-    <div>
-      <h1>Welcome to Run Away Next!</h1>
-      <h2>Whether you're here to plan an adventure or are interested in creating a blog of your own, you're in the right place!</h2>
+    <div id="index">
+      <g-image id="home" src="~/assets/crg.jpg" />
     </div>
-    
+    <div id="index">
+      <h2>About</h2>
+    </div>
     </Layout>
   </div>
     
@@ -22,8 +23,16 @@ export default {
 </script>
 
 <style scoped>
-  .Layout{
-    text-align: center;
+  
+  #home{
+    width: 100%;
+    margin-top: 20px;
   }
-
+  #index{
+    border-bottom: 1px solid rgb(0, 0, 87, 0.7);
+    padding: 30px;
+  }
+  @media (min-width: 768px){
+ 
+  }
 </style>

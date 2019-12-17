@@ -1,10 +1,11 @@
 <template>
   <Layout>
    <header class="header">
-      <h1>Run Away Next Blogs</h1>
+      <h1>Blog</h1>
+      <em>by Runaway Mary K</em>
     </header>
-    <section class="posts">
-      <PostList v-for="edge in $page.posts.edges" :key="edge.node.id" :post="edge.node" />
+     <section class="posts">
+      <PostList v-for="edge in $page.allPost.edges" :key="edge.node.id" :post="edge.node" />
     </section>
   </Layout>
 </template>
@@ -17,18 +18,20 @@ export default {
 };
 </script>
 <page-query>
-  query blogPosts {
-    posts: allWebPost (filter: { blogpost: { eq: true }}, sortBy: "date", order: ASC) {
-      edges {
-        node {
-          id
-          title
-          path
-          date (format: "D MMMM YYYY")
-          description
-        }
+ query {
+  allPost {
+    totalCount
+    edges {
+      node {
+        id
+        title
+        description
+        date 
+        path
       }
     }
   }
+}
 </page-query>
+
 
