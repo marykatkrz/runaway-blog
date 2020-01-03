@@ -30,7 +30,7 @@ export default {
   }
   #index{
     border-bottom: 1px solid rgb(0, 0, 87, 0.7);
-    padding: 30px;
+    padding: 10px;
   }
   @media (min-width: 768px){
  

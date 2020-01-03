@@ -7,8 +7,8 @@
         <a href="/">Home</a>
         <a href="/about">About</a>
         <a href="/blog">Blog</a>
-        <a href="">Trip Planning</a>
-        <a href="">Web Development</a>
+        <a href="/plan">Trip Planning</a>
+        <a href="create">Web Development</a>
         <a href="/contact">Contact</a>
       </div>
       </div>     
@@ -32,8 +32,9 @@
   margin: 10px 15px;
   padding: 10px;
   background-color: rgb(235, 235, 235);
-  color: rgb(10, 10, 49);
+  color: rgb(17, 17, 94);
   text-align: center;
+  font-family: 'Quattrocento', serif;
 }
 
 img{
@@ -54,8 +55,9 @@ footer{
   text-align: center;
 }
 #phrase{
-  font-family: 'Kaushan Script', cursive;
-  font-size: 28pt;
+  font-size: 30pt;
+  font-family: 'Dancing Script', cursive;
+  letter-spacing: 1px;
 }
 @media (max-width: 768px){
 button{
@@ -64,7 +66,7 @@ button{
   
 }
 .dropbtn {
-  color: rgb(10, 10, 66);
+  color: rgb(17, 17, 94);
   padding: 10px;
   font-size: 12pt;
   border: none;
@@ -91,11 +93,11 @@ button{
 .dropdown:hover .dropbtn {background-color: #808080;}
 }
 a{
-  padding: 15px 0px;
+  padding: 10px 0px;
   margin: 0px 20px;
   text-decoration: none;
-  color: rgb(10, 10, 66);
-  font-size: 13pt;
+  color: rgb(17, 17, 94);
+  font-size: 12pt;
 }
 .dropdown-content a:hover{
   color:rgb(255, 167, 4);
@@ -130,7 +132,7 @@ a:hover{
   }
   #phrase{
     text-align: right;
-    padding: 40px;
+    padding: 10px 40px;
   }
 }
 </style>

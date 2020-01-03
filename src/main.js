@@ -17,6 +17,7 @@ export default function (Vue, { router, head, isClient }) {
   Vue.component('font-awesome', FontAwesomeIcon)
   head.link.push({
     rel: 'stylesheet',
-    href: 'https://fonts.googleapis.com/css?family=Kaushan+Script'
+    href: 'https://fonts.googleapis.com/css?family=Quattrocento',
+    href: 'https://fonts.googleapis.com/css?family=Dancing+Script'
   })
 }
