@@ -4,8 +4,10 @@
     <div id="index">
       <g-image id="home" src="~/assets/crg.jpg" />
     </div>
-    <div id="index">
-      <h2>About</h2>
+    <div id="blurb">
+      <h2>Welcome to Run Away Next!</h2>
+      <p>I'm Mary, and I love running away. Not necessarily from anything, but toward my next adventure! Whether this is in a national park or a big city, I love exploring new places and hope to inspire you all to do the same.</p>
+      <router-link to="/about"><button>READ THE FULL STORY</button></router-link>
     </div>
     </Layout>
   </div>
@@ -22,17 +24,35 @@ export default {
 }
 </script>
 
-<style scoped>
-  
+<style scoped> 
   #home{
     width: 100%;
     margin-top: 20px;
+  } 
+  button{
+    border: 2px solid rgb(12, 58, 70);
+    padding: 15px;
+    color: rgb(12, 58, 70);
+    font-size: 11pt;
   }
-  #index{
-    border-bottom: 1px solid rgb(0, 0, 87, 0.7);
-    padding: 10px;
+
+  button:hover{
+    border: 2px solid rgb(255, 167, 4);
+    background-color: white;
+    color:rgb(255, 167, 4);
+    cursor: pointer;
+ 
   }
   @media (min-width: 768px){
- 
+    #blurb{
+      padding: 30px 150px;
+    }
+  
+    #blurb h2{
+      font-size: 20pt;
+    }
+    #blurb p{
+      font-size: 14pt;
+    }
   }
 </style>

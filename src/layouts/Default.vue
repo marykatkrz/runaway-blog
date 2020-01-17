@@ -8,20 +8,21 @@
         <a href="/about">About</a>
         <a href="/blog">Blog</a>
         <a href="/plan">Trip Planning</a>
-        <a href="create">Web Development</a>
+        <a href="/create">Web Development</a>
         <a href="/contact">Contact</a>
       </div>
       </div>     
       <a href="/">
       <div id="logo">
-        <g-image id="img" src="~/assets/logo.jpg" width="200"/>
+        <g-image id="img" src="~/assets/logo.png" width="200"/>
       </div>
       </a>  
-        <h2 id="phrase">Where will you run away next?</h2>   
+        <h1 id="phrase">Where will you run away next?</h1>   
+        <h2 id="tag">A Travel Planning Site</h2>
     </header>
       <slot/>
     <footer>
-      <h4><em>Run Away Next 2019</em></h4>
+      <h4><em>Run Away Next 2020</em></h4>
        <a href="https://www.instagram.com/runawaynext/" target="_blank"><font-awesome :icon="['fab', 'instagram']"/></a> 
     </footer>
   </div>
@@ -29,19 +30,15 @@
 
 <style>
 .Layout{
-  margin: 10px 15px;
-  padding: 10px;
   background-color: rgb(235, 235, 235);
-  color: rgb(17, 17, 94);
+  color: rgb(0, 0, 85);
   text-align: center;
   font-family: 'Quattrocento', serif;
 }
-
 img{
   width: auto;
   height: 100%;
 }
-
 #logo{
   display: inline-block;
   width: 100px;
@@ -51,8 +48,10 @@ img{
 }
 footer{
   padding: 50px;
-  margin: 50px;
   text-align: center;
+}
+footer a{
+  font-size: 20pt;
 }
 #phrase{
   font-size: 30pt;
@@ -61,12 +60,16 @@ footer{
 }
 @media (max-width: 768px){
 button{
-  color: rgb(10, 10, 66);
+  color: rgb(0, 0, 85);
   border: none;
   
 }
+.Layout{
+  margin: 15px;
+  padding: 10px;
+}
 .dropbtn {
-  color: rgb(17, 17, 94);
+  color: rgb(0, 0, 85);
   padding: 10px;
   font-size: 12pt;
   border: none;
@@ -92,30 +95,37 @@ button{
   }
 .dropdown:hover .dropbtn {background-color: #808080;}
 }
-a{
+header a{
   padding: 10px 0px;
   margin: 0px 20px;
   text-decoration: none;
-  color: rgb(17, 17, 94);
+  color: rgb(0, 0, 85);
   font-size: 12pt;
+}
+a{
+  color:rgb(0, 0, 85);
+  text-decoration: none;
 }
 .dropdown-content a:hover{
   color:rgb(255, 167, 4);
   border-bottom: 2px solid rgb(255, 167, 4);
+  
 }
 a:hover{
   color:rgb(255, 167, 4);
 }
 @media(min-width: 768px){
-
   .Layout{
   margin: 40px 50px;
   padding: 30px;
+
   }
+
   #logo{
   width: 200px;
   height: 200px;
   float: left;
+  border: 3px solid white;
 }
   .dropbtn{
     display: none;
@@ -125,14 +135,14 @@ a:hover{
 
   }
 
-  #title{
-    text-align: center;
-    padding: 10px;
-    margin-top: 40px;
-  }
   #phrase{
     text-align: right;
-    padding: 10px 40px;
+    padding: 10px 20px 0 0;
+  }
+  #tag{
+    text-align: right;
+    font-size: 14pt;
+    padding: 0px 30px;
   }
 }
 </style>

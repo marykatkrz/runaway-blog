@@ -1,12 +1,17 @@
 <template>
   <Layout>
+    <div id="return">
+      <a href="/blog">Back to Blogs</a>
+    </div>
+    <div id="posts">
+      <g-image class="post-image" :src="$page.post.featureimg"/>
     <div class="post-title">
       <h1>{{$page.post.title}}</h1>
-        <p class="post-date"> {{ $page.post.date}} 
-      </p>
+      <em><p class="post-date"> {{ $page.post.date}}</p></em>
     </div>
     <div class="post-content">
       <p v-html="$page.post.content" />
+    </div>
     </div>
   </Layout>
 </template>
@@ -18,6 +23,29 @@ query Post ($path: String!) {
       path
       date 
       content
+      featureimg 
   }
 }
 </page-query>
+<style scoped>
+  #return{
+    text-align: center;
+    text-decoration: underline;
+    margin-top: 50px;
+    padding: 20px;
+    font-size: 14pt;
+  }
+  .post-image{
+    height: 400px;
+  }
+  .post-content{
+    text-align: left;
+    font-size: 13pt;
+    padding: 20px 150px;
+  }
+  @media(min-width: 768px){
+  #return{
+    text-align: right;
+  }
+  }
+</style>

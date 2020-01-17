@@ -2,6 +2,7 @@
   <div class="post-list">
     <g-link :to="post.path"><h3 class="title" v-html="post.title"/></g-link>
     <em><p class="date" v-html="post.date"/></em>
+    <g-image class="featureimg" :src="post.featureimg"/>
     <p class="description" v-html="post.description"/>
     <g-link :to="post.path" class="read">Read More </g-link>
   </div>
@@ -18,12 +19,19 @@ export default {
   font-size: 18pt;  
 }
 .post-list{
-  width: 100%;
-  background: rgb(0, 84, 105);
+  width: auto;
+  background: rgb(12, 58, 70);
   color:rgb(235, 235, 235);
   padding: 30px;
-  margin: 10px;
+  margin: 20px;
   text-align: center;
+  border-radius: 4pt;
+  font-size: 13pt;
+}
+.post-list:hover{
+  padding: 35px;
+  transition-duration: 0.5s; 
+  background: rgb(30, 108, 128);
 }
 .post-list a{
   color:rgb(235, 235, 235);
@@ -31,9 +39,18 @@ export default {
 .post-list a:hover{
   color: rgb(255, 167, 4);
 }
+@media (max-width: 768px){
+  .featureimg{
+    width: 40%;
+  } 
+}
 @media(min-width: 768px){
   .post-list{
     width: 25%;
+    height: 400px;
+  }
+  .featureimg{
+    height: 200px;
   }
 }
 </style>

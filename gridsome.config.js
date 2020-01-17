@@ -12,7 +12,7 @@ module.exports = {
       options: {
         path: 'content/posts/**/*.md',
         typeName: 'Post',
-        route: 'blog/:slug',
+        route: 'blog/:title',
       }
     }
   ],
