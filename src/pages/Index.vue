@@ -19,8 +19,7 @@ import Layout from "~/layouts/Default.vue"
 export default {
   components:{
     Layout
-  }
-  
+  } 
 }
 </script>
 
@@ -35,19 +34,16 @@ export default {
     color: rgb(12, 58, 70);
     font-size: 11pt;
   }
-
   button:hover{
     border: 2px solid rgb(255, 167, 4);
     background-color: white;
     color:rgb(255, 167, 4);
     cursor: pointer;
- 
   }
   @media (min-width: 768px){
     #blurb{
       padding: 30px 150px;
     }
-  
     #blurb h2{
       font-size: 20pt;
     }

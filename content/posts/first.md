@@ -25,7 +25,7 @@ I don't know where those men are or if they knew what that meant to the little g
 
 While there are more pictures other than this one of my brother and I at the Baseball Hall of Fame in Cooperstown, New York on our way back home, this was the 90s and they are safely tucked away in my mom's closet. Where they shall remain! (But check out that cute lobster finger puppet. We were just in Maine!)
 
-Oh yeah, and the blog title. You see, I have this (I imagine) annoying thing that I tend to do often. If I hear an accent or something I feel the need to try and imitate it. So we're walking around the town of Bar Harbor, Maine and pass by this window with a shirt that says, "Weah Heah in Bah Hahbah." I read it out loud and became obsessed with trying to say this phrase like they do on the East Coast. It's too bad that I'm still like that. 😄
+Oh yeah, and the blog title. You see, I have this annoying thing that I tend to do often. If I hear an accent or something I feel the need to try and imitate it. So we're walking around the town of Bar Harbor, Maine and pass by this window with a shirt that says, "Weah Heah in Bah Hahbah." I read it out loud and became obsessed with trying to say this phrase like they do on the East Coast. It's too bad that I'm still like that. 😄
 
 This adventure of driving to Maine was huge for me. It was the first time I saw the mountains and the ocean, or really anything different from my midwest town. And while the long drive was hard as a kid, I think this is what first sparked my love of road trips. 
 Of course, I'd love to go back and really explore someday, but I'm thankful for my family for making that happen at a young age. 

@@ -7,7 +7,7 @@
                 <h2 id="title">Personal Travel Planning</h2>
                 <h2>"I haven't been everywhere, but it's on my list"</h2>
                 <p>I know, I know. We've all seen the Instagram posts with that quote. But the truth of the matter is that, yeah, I want to go everywhere and just haven't been able to...yet!</p>
-                <p>I've been fortunate enough to have visited quite a few places, and now have that travel knowledge and the anecdotes to share with others. As for the places I haven't been, I have spent hours hanging out on my computer doing research, hoping to make all my dream adventures a reality. Needless to say, I am not an expert! But what I do know is that my friends trust me to plan entire vacations and they get to go along for the ride. And I can do that for you, too!</p>
+                <p>I've been fortunate enough to have visited quite a few places, and now have that travel knowledge and the anecdotes to share with others. As for the places I haven't been, I have spent hours hanging out on my computer doing research, hoping to make all my dream adventures a reality. Needless to say, I am not an expert! But what I do know is that my friends trust me to plan entire vacations and they get to go along for the ride. And I can do that for you, too! Most importantly, though, is that I want to create an itinerary specifically just for you based on your interests.</p>
                 <em>Curious? Send a message through the <a href="/contact">contact form</a> or feel free to email me at runawaymaryk@gmail.com!</em>
                 </div>
             </div>

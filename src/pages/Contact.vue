@@ -44,13 +44,16 @@
       font-size: 14pt;
       padding: 8px;
       width: 20%;
-      background: rgb(12, 58, 70);
-      color: white;
+      background: rgb(235, 235, 235);
+      color: rgb(12, 58, 70);
+      border: 2px solid rgb(12, 58, 70);
+      border-radius: 8pt;
     }
       button:hover{
       background: white;
       color:rgb(255, 167, 4);
       border: 2px solid rgb(255, 167, 4);
+      cursor: pointer;
     }
   }
 </style>

@@ -7,7 +7,7 @@
         <a href="/">Home</a>
         <a href="/about">About</a>
         <a href="/blog">Blog</a>
-        <a href="/plan">Trip Planning</a>
+        <a href="/plan">Personal Trip Planning</a>
         <a href="/create">Web Development</a>
         <a href="/contact">Contact</a>
       </div>
@@ -17,8 +17,10 @@
         <g-image id="img" src="~/assets/logo.png" width="200"/>
       </div>
       </a>  
+      <div>
         <h1 id="phrase">Where will you run away next?</h1>   
         <h2 id="tag">A Travel Planning Site</h2>
+      </div>
     </header>
       <slot/>
     <footer>
@@ -61,8 +63,7 @@ footer a{
 @media (max-width: 768px){
 button{
   color: rgb(0, 0, 85);
-  border: none;
-  
+  border: none; 
 }
 .Layout{
   margin: 15px;
@@ -104,7 +105,6 @@ header a{
 }
 a{
   color:rgb(0, 0, 85);
-  text-decoration: none;
 }
 .dropdown-content a:hover{
   color:rgb(255, 167, 4);
@@ -118,9 +118,7 @@ a:hover{
   .Layout{
   margin: 40px 50px;
   padding: 30px;
-
   }
-
   #logo{
   width: 200px;
   height: 200px;
@@ -132,9 +130,7 @@ a:hover{
   }
   .dropdown-content{
     float: right;
-
   }
-
   #phrase{
     text-align: right;
     padding: 10px 20px 0 0;

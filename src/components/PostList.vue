@@ -16,7 +16,8 @@ export default {
 
 <style scoped>
 .title{
-  font-size: 18pt;  
+  font-size: 18pt; 
+
 }
 .post-list{
   width: auto;
@@ -35,6 +36,7 @@ export default {
 }
 .post-list a{
   color:rgb(235, 235, 235);
+  text-decoration: none;
 }
 .post-list a:hover{
   color: rgb(255, 167, 4);
