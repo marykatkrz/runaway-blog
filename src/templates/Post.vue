@@ -35,17 +35,26 @@ query Post ($path: String!) {
     padding: 20px;
     font-size: 14pt;
   }
-  .post-image{
-    height: 400px;
-  }
+
   .post-content{
     text-align: left;
     font-size: 13pt;
-    padding: 20px 150px;
+    padding: 10px;
+  }
+  @media (max-width: 768px){
+    .post-image{
+      width: 80%;
+    }
   }
   @media(min-width: 768px){
   #return{
     text-align: right;
+  }
+   .post-image{
+    height: 400px;
+  }
+  .post-content{
+    padding: 20px 150px;
   }
   }
 </style>

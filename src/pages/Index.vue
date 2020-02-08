@@ -29,15 +29,15 @@ export default {
     margin-top: 20px;
   } 
   button{
-    border: 2px solid rgb(12, 58, 70);
     padding: 15px;
-    color: rgb(12, 58, 70);
+    background-color: rgb(12, 58, 70);
+    color: white;
     font-size: 11pt;
+    border: none;
   }
   button:hover{
-    border: 2px solid rgb(255, 167, 4);
-    background-color: white;
-    color:rgb(255, 167, 4);
+    background-color: rgb(9, 40, 48);
+    color:white;
     cursor: pointer;
   }
   @media (min-width: 768px){

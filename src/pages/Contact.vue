@@ -40,11 +40,10 @@
    button{
       font-size: 14pt;
       padding: 8px;
-      width: 20%;
-      background: rgb(235, 235, 235);
-      color: rgb(12, 58, 70);
-      border: 2px solid rgb(12, 58, 70);
-      border-radius: 8pt;
+      width: 25%;
+      background:  rgb(12, 58, 70) ;
+      color: white;
+      border: none;
     }
  @media (min-width: 768px){
     #contact{
@@ -61,11 +60,9 @@
       height: 100px;
       margin: 5px;
     }
-  
-      button:hover{
-      background: white;
-      color:rgb(255, 167, 4);
-      border: 2px solid rgb(255, 167, 4);
+    button:hover{
+      background: rgb(9, 40, 48);
+      color: white;
       cursor: pointer;
     }
   }
