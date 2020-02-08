@@ -26,21 +26,18 @@
     font-size: 13pt;
     background-image: url("~@/assets/maps.jpg");
     border: 2px solid white;
-    padding: 10px 40px 50px 40px;
-    border-radius: 10pt;
-    margin: 60px 200px ;
+    margin: 5px;
   }
   input{
-    width: 50%;
+    width: 80%;
     margin: 5px;
   }
   textarea{
-    width: 50%;
+    width: 80%;
     height: 100px;
     margin: 5px;
   }
- @media (min-width: 768px){
-      button{
+   button{
       font-size: 14pt;
       padding: 8px;
       width: 20%;
@@ -49,6 +46,22 @@
       border: 2px solid rgb(12, 58, 70);
       border-radius: 8pt;
     }
+ @media (min-width: 768px){
+    #contact{
+      padding: 10px 40px 50px 40px;
+      border-radius: 10pt;
+      margin: 60px 200px ;
+    }
+    input{
+      width: 50%;
+      margin: 5px;
+    }
+    textarea{
+      width: 50%;
+      height: 100px;
+      margin: 5px;
+    }
+  
       button:hover{
       background: white;
       color:rgb(255, 167, 4);
