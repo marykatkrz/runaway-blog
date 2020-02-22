@@ -44,8 +44,9 @@
       background:  rgb(12, 58, 70) ;
       color: white;
       border: none;
+      border-radius: 4pt;
     }
- @media (min-width: 768px){
+ @media (min-width: 770px){
     #contact{
       padding: 10px 40px 50px 40px;
       border-radius: 10pt;

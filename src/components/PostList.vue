@@ -17,10 +17,12 @@ export default {
 <style scoped>
 .title{
   font-size: 18pt; 
-
+  height: 10%
+}
+.description{
+  height: 10%;
 }
 .post-list{
-  width: auto;
   background: rgb(12, 58, 70);
   color:rgb(235, 235, 235);
   padding: 30px;
@@ -41,15 +43,18 @@ export default {
 .post-list a:hover{
   color: rgb(255, 167, 4);
 }
-@media (max-width: 768px){
+@media (max-width: 770px){
   .featureimg{
-    width: 40%;
+    height: 150px;
   } 
+   .post-list{
+    height: 300px;
+  }
 }
-@media(min-width: 768px){
+@media(min-width: 770px){
   .post-list{
     width: 25%;
-    height: 400px;
+    height: 410px;
   }
   .featureimg{
     height: 200px;

@@ -33,7 +33,7 @@
 .personal em{
     font-size: 14pt;
 }
-@media(min-width: 768px){
+@media(min-width: 770px){
     .personal {
         position: absolute;
         top: 100px;

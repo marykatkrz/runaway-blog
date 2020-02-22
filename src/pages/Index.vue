@@ -34,13 +34,17 @@ export default {
     color: white;
     font-size: 11pt;
     border: none;
+    border-radius: 4pt;
   }
   button:hover{
     background-color: rgb(9, 40, 48);
     color:white;
     cursor: pointer;
   }
-  @media (min-width: 768px){
+  #blurb{
+    padding: 10px;
+  }
+  @media (min-width: 770px){
     #blurb{
       padding: 30px 150px;
     }

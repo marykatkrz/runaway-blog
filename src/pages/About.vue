@@ -22,9 +22,12 @@
 
 <style scoped>
 #tip{
-  width: 100%;
+  width: 80%;
 }
-@media(min-width: 768px){
+#story{
+  padding: 10px;
+}
+@media(min-width: 770px){
   .about{
     display: flex; 
     margin-top: 60px;   

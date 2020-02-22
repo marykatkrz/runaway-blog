@@ -60,7 +60,8 @@ footer a{
   font-family: 'Dancing Script', cursive;
   letter-spacing: 1px;
 }
-@media (max-width: 768px){
+
+@media (max-width: 770px){
 button{
   color: rgb(0, 0, 85);
   border: none; 
@@ -114,7 +115,7 @@ a{
 a:hover{
   color:rgb(255, 167, 4);
 }
-@media(min-width: 768px){
+@media(min-width: 770px){
   .Layout{
   margin: 40px 50px;
   padding: 30px;

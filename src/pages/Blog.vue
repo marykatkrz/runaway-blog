@@ -17,7 +17,7 @@ export default {
 </script>
 <page-query>
  query {
-  allPost {
+  allPost (sortBy: "date", order: ASC){
     totalCount
     edges {
       node {
@@ -33,7 +33,8 @@ export default {
 }
 </page-query>
 <style scoped>
-@media(min-width: 768px){
+
+@media(min-width: 770px){
   .posts{
     display: flex;
     flex-wrap: wrap;
