@@ -21,6 +21,7 @@ export default {
 }
 .description{
   height: 10%;
+  padding: 10px;
 }
 .post-list{
   background: rgb(12, 58, 70);
@@ -48,13 +49,13 @@ export default {
     height: 150px;
   } 
    .post-list{
-    height: 350px;
+    height: 375px;
   }
 }
 @media(min-width: 770px){
   .post-list{
     width: 25%;
-    height: 410px;
+    height: 450px;
   }
   .featureimg{
     height: 200px;
