@@ -48,7 +48,7 @@ export default {
     height: 150px;
   } 
    .post-list{
-    height: 300px;
+    height: 350px;
   }
 }
 @media(min-width: 770px){
