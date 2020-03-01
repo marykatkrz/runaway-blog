@@ -1,6 +1,5 @@
 <template>
   <Layout>
-    <div class="form">
     <form id="contact" name="contact" method="POST" data-netlify="true">
       <h2>Contact Form</h2>
       <em>Questions? Comments? Inquiries? Feel free to use this form or send emails to runawaymaryk@gmail.com and I will get back to you as soon as possible!</em>
@@ -16,7 +15,6 @@
           <button type="submit">Send</button>
       </p>
     </form>
-    </div>
   </Layout>
 </template>
 
