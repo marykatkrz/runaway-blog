@@ -1,6 +1,6 @@
 <template>
   <Layout>
-    <form id="contact" name="contact" method="POST" data-netlify="true">
+    <form id="contact" name="contact" action="/pages/success" method="POST" data-netlify="true">
       <h2>Contact Form</h2>
       <em>Questions? Comments? Inquiries? Feel free to use this form or send emails to runawaymaryk@gmail.com and I will get back to you as soon as possible!</em>
       <p>
