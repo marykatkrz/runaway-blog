@@ -31,11 +31,13 @@ export default {
   text-align: center;
   border-radius: 4pt;
   font-size: 13pt;
+  box-shadow: 0px 0px 15px 3px grey;
 }
 .post-list:hover{
-  padding: 35px;
+  padding: 32px;
   transition-duration: 0.5s; 
   background: rgb(30, 108, 128);
+  box-shadow: 0px 0px 15px 10px grey;
 }
 .post-list a{
   color:rgb(235, 235, 235);

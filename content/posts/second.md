@@ -7,7 +7,7 @@ featureimg: ./redwoods.jpg
 
 24 hours just wasn't enough. But when I make make up my mind about something I tend to stick to it, and I was determined to spend my birthday in Northern California. 
 
-My now fiance and I had a weekend to spare and in reality the trip was totally doable. Leaving Portland on Friday night, we drove until we hit Grant's Pass, Oregon to sleep for the night. I'm so glad we did! This allowed us to wake up early the next morning to drive to the Redwoods, which in turn gave us one of the most spectacular drives either we had been on. Apparently known as Redwood Highway in Oregon, highway 199 was a bonus for our adventure to California and I highly recommend driving this way if you can. 
+My now fiance and I only had a weekend to spare, and the trip was totally doable. Leaving Portland on Friday night, we drove until we hit Grant's Pass, Oregon to sleep for the night. I'm so glad we did! This allowed us to wake up early the next morning to drive to the Redwoods, which in turn gave us one of the most spectacular drives either we had been on. Apparently known as Redwood Highway in Oregon, highway 199 was a bonus for our adventure to California and I highly recommend driving this way if you can. 
 
 ![](./rwcali.jpg)
 
