@@ -6,7 +6,7 @@ featureimg: ./jefferson.jpg
 ---
 Happy New Year!
 
-I know I've been MIA for a while, but 2020 wasn't exactly the year for travel. 
+I know I've been MIA for a while, but let's face it - 2020 wasn't exactly the year for travel. 
 
 I, like many others, didn't know where this blog was going to go either. In a world full of travel bloggers and influencers, how do you stand out?
 
