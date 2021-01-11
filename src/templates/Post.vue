@@ -50,8 +50,8 @@ query Post ($path: String!) {
   #return{
     text-align: right;
   }
-   .post-image{
-    height: 400px;
+  .post-image{
+    width: 400px;
   }
   .post-content{
     padding: 20px 150px;
