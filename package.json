@@ -7,17 +7,17 @@
     "explore": "gridsome explore"
   },
   "dependencies": {
-    "@fortawesome/free-solid-svg-icons": "^5.11.2",
+    "@fortawesome/free-solid-svg-icons": "^5.15.1",
     "@gridsome/source-filesystem": "^0.6.2",
-    "gridsome": "^0.7.0"
+    "gridsome": "^0.7.23"
   },
   "devDependencies": {
-    "@fortawesome/fontawesome-svg-core": "^1.2.25",
-    "@fortawesome/free-brands-svg-icons": "^5.11.2",
-    "@fortawesome/vue-fontawesome": "^0.1.8",
+    "@fortawesome/fontawesome-svg-core": "^1.2.32",
+    "@fortawesome/free-brands-svg-icons": "^5.15.1",
+    "@fortawesome/vue-fontawesome": "^0.1.10",
     "@gridsome/transformer-remark": "^0.4.0",
-    "eslint": "^6.6.0",
-    "eslint-plugin-gridsome": "^1.4.0",
+    "eslint": "^6.8.0",
+    "eslint-plugin-gridsome": "^1.5.1",
     "vue-eslint-parser": "^6.0.5"
   }
 }

@@ -1,5 +1,6 @@
 <template>
   <div class="Layout">
+    <head></head>
     <header class="header">
       <div class="dropdown">
       <button class="dropbtn"><font-awesome :icon="['fas', 'bars']" /></button>
@@ -7,8 +8,6 @@
         <a href="/">Home</a>
         <a href="/about">About</a>
         <a href="/blog">Blog</a>
-        <a href="/plan">Personal Trip Planning</a>
-        <!-- <a href="/create">Web Development</a> -->
         <a href="/contact">Contact</a>
       </div>
       </div>     

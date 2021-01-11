@@ -23,6 +23,7 @@
     color: white;
     font-size: 13pt;
     background-image: url("~@/assets/maps.jpg");
+    background-size:auto;
     border: 2px solid white;
     margin: 5px;
   }
@@ -48,7 +49,7 @@
     #contact{
       padding: 10px 40px 50px 40px;
       border-radius: 10pt;
-      margin: 60px 200px ;
+      margin: 150px 300px ;
     }
     input{
       width: 50%;

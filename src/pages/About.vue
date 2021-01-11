@@ -9,8 +9,8 @@
         <p>While I love Nashville with all my heart, wanderlust does not rest. When a friend came to me and suggested a move to Portland, Oregon, I just couldn't say no. This time we packed up the car and the two of us embarked on an 11 day road trip across the United States.</p>
         <h3>IT WAS EPIC</h3>
         <p>Soon we made it to Portland and I have spent the past couple of years exploring the beautiful Pacific Northwest. It's home. <strong>Until the next time I move, of course.</strong></p>
-        <p>A few years ago I started an adventure blog that, unfortunately, I became too busy to maintain. But I realized that I missed writing! The idea for Run Away Next came to me while I was in school learning to code, so I figured I'd make my own site this time. The blog will include travel tips and anecdotes, or really just anything to help you plan a trip somewhere. While the blog will be fun for me, I want Run Away Next to be more than that. Going on vacation but don't know how to start or have the time to plan everything out yourself? I'd love to help! Would you like a blog of your own? I can create one for you! Basically, I want Run Away Next to be your go to site for travel planning.</p>
-        <p>So I ask you this:</p>
+        <p>Run Away Next started as a project to add to my resume (I wanted to test my coding skills!) Now I am expanding it into something a bit more, a resource for traveling with fun activities to engage in on your travels. Please, browse through the blog and see if anything catches your eye!</p>
+        <p>Now I ask you this:</p>
         <h3>Where will you Run Away Next?</h3>
       </div>
       <div>
