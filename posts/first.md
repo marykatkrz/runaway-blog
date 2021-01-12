@@ -2,7 +2,7 @@
 title: "New Year, New Ideas!"
 description: "Revamping Run Away Next"
 date: January 10th, 2021
-featureimg: https://hubb.blob.core.windows.net/c2b50308-9725-4140-9635-76930d209b04-public/resources/IMG_6372.jpg
+featureimg: ./jefferson.jpg
 ---
 Happy New Year!
 
@@ -21,18 +21,4 @@ I hope to use this platform to create scavenger hunts for various locations, alo
 Super excited to put some work in and learn a bit more myself. Run Away Next is back, baby!
 
 
-![](./images/next.jpg)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- ![](./images/next.jpg) -->
