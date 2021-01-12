@@ -2,7 +2,7 @@
 title: "New Year, New Ideas!"
 description: "Revamping Run Away Next"
 date: January 10th, 2021
-featureimg: ./images/jefferson.jpg
+featureimg: https://hubb.blob.core.windows.net/c2b50308-9725-4140-9635-76930d209b04-public/resources/IMG_6372.jpg
 ---
 Happy New Year!
 
