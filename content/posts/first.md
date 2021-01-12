@@ -2,7 +2,7 @@
 title: "New Year, New Ideas!"
 description: "Revamping Run Away Next"
 date: January 10th, 2021
-featureimg: ./jefferson.jpg
+featureimg: ./rwcali.jpg
 ---
 Happy New Year!
 
@@ -21,7 +21,7 @@ I hope to use this platform to create scavenger hunts for various locations, alo
 Super excited to put some work in and learn a bit more myself. Run Away Next is back, baby!
 
 
-<!-- ![](./next.jpg) -->
+![](./next.jpg)
 
 
 
