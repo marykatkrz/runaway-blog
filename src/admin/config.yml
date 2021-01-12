@@ -3,8 +3,11 @@ public_folder: '/uploads'
 
 
 collections:
-  - name: posts
-    folder: 'posts'
+  - name: "posts"
+    label: "Posts"
+    folder: "posts"
+    create: true
+    slug: "{{slug}}"
     fields:
       - {label: 'Title', name: 'title', widget: 'string'}
       - {label: 'Cover', name: 'featureimg', widget: 'image'}
