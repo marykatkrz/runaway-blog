@@ -13,7 +13,15 @@ module.exports = {
         path: 'content/posts/**/*.md',
         typeName: 'Post',
         route: 'blog/:title',
-      }
+      },
+    },
+      { use: 'gridsome-plugin-netlify-cms' },
+      // fix paths
+      { use: 'gridsome-plugin-netlify-cms-paths',
+      options: {
+        contentTypes: ['Post'],
+        coverField: 'featureimg' // Global definition
+      },
     }
   ],
   transformers: {

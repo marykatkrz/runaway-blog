@@ -26,7 +26,7 @@ export default {
         description
         date 
         path
-        featureimg
+        featureimg 
       }
     }
   }

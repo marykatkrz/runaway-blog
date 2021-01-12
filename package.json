@@ -9,7 +9,9 @@
   "dependencies": {
     "@fortawesome/free-solid-svg-icons": "^5.15.1",
     "@gridsome/source-filesystem": "^0.6.2",
-    "gridsome": "^0.7.23"
+    "gridsome": "^0.7.23",
+    "gridsome-plugin-netlify-cms": "^1.0.9",
+    "gridsome-plugin-netlify-cms-paths": "^0.3.1"
   },
   "devDependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.32",

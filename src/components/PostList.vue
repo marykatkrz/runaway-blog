@@ -2,7 +2,7 @@
   <div class="post-list">
     <g-link :to="post.path"><h3 class="title" v-html="post.title"/></g-link>
     <em><p class="date" v-html="post.date"/></em>
-    <g-image class="featureimg" :src="post.featureimg" height="100px"/>
+    <g-image class="featureimg" :src="post.featureimg"/>
     <p class="description" v-html="post.description"/>
     <g-link :to="post.path" class="read">Read More </g-link>
   </div>
