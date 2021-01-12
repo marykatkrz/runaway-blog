@@ -2,7 +2,7 @@
   <div class="post-list">
     <g-link :to="post.path"><h3 class="title" v-html="post.title"/></g-link>
     <em><p class="date" v-html="post.date"/></em>
-    <g-image class="featureimg" :src="post.featureimg"/>
+    <g-image class="featureimg" :src="post.featureimg" height="100px"/>
     <p class="description" v-html="post.description"/>
     <g-link :to="post.path" class="read">Read More </g-link>
   </div>
@@ -47,9 +47,6 @@ export default {
   color: rgb(255, 167, 4);
 }
 @media (max-width: 770px){
-  .featureimg{
-    height: 150px;
-  } 
    .post-list{
     height: 375px;
   }
