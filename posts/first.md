@@ -21,4 +21,4 @@ I hope to use this platform to create scavenger hunts for various locations, alo
 Super excited to put some work in and learn a bit more myself. Run Away Next is back, baby!
 
 
-<!-- ![](./images/next.jpg) -->
+![](/images/uploads/next.jpg)

@@ -17,7 +17,7 @@
     "@fortawesome/fontawesome-svg-core": "^1.2.32",
     "@fortawesome/free-brands-svg-icons": "^5.15.1",
     "@fortawesome/vue-fontawesome": "^0.1.10",
-    "@gridsome/transformer-remark": "^0.4.0",
+    "@gridsome/transformer-remark": "^0.6.4",
     "eslint": "^6.8.0",
     "eslint-plugin-gridsome": "^1.5.1",
     "vue-eslint-parser": "^6.0.5"
