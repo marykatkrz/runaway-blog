@@ -10,5 +10,5 @@ collections:
     slug: "{{slug}}"
     fields:
       - {label: 'Title', name: 'title', widget: 'string'}
-      - {label: 'Cover', name: 'featureimg', widget: 'image'}
+      - {label: 'featureimg', name: 'featureimg', widget: 'image'}
       - {label: 'Body', name: 'body', widget: 'markdown'}
