@@ -4,7 +4,7 @@ public_folder: '/uploads'
 
 collections:
   - name: "posts"
-    label: "Posts"
+    label: "featureimg"
     folder: "posts"
     create: true
     slug: "{{slug}}"
