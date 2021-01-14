@@ -6,9 +6,9 @@
       <button class="dropbtn"><font-awesome :icon="['fas', 'bars']" /></button>
       <div class="dropdown-content">      
         <a href="/">Home</a>
-        <a href="/about">About</a>
-        <a href="/blog">Blog</a>
-        <a href="/contact">Contact</a>
+        <a href="/about/">About</a>
+        <a href="/blog/">Blog</a>
+        <a href="/contact/">Contact</a>
       </div>
       </div>     
       <a href="/">
