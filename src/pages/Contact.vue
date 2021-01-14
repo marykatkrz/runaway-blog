@@ -3,14 +3,15 @@
     <form id="contact" name="contact" action="/pages/success" method="POST" data-netlify="true">
       <h2>Contact Form</h2>
       <em>Questions? Comments? Inquiries? Feel free to use this form or send emails to runawaymaryk@gmail.com and I will get back to you as soon as possible!</em>
+      <input type="hidden" name="form-name" value="contact">
       <p>
-        <label>Name: <br/><input type="text" name="name"></input></label>   
+       Name: <br/><input type="text" name="name"></input>   
       </p>
       <p>
-        <label>Email: <br/><input type="email" name="email" ></input></label>
+       Email: <br/><input type="email" name="email" ></input>
       </p>
       <p>
-        <label>Message: <br/><textarea type="text" name="message"></textarea></label>
+        Message: <br/><textarea type="text" name="message"></textarea>
       <p>
           <button type="submit">Send</button>
       </p>
