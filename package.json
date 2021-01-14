@@ -22,4 +22,5 @@
     "eslint-plugin-gridsome": "^1.5.1",
     "vue-eslint-parser": "^6.0.5"
   }
+  
 }
