@@ -1,7 +1,7 @@
 <template>
   <Layout>
     <h2>Thank you!</h2>
-    <p>Your form has sent.</p>
+    <p>Your form has submitted.</p>
     <div id="return">
       <a href="/">Back to Home</a>
     </div>

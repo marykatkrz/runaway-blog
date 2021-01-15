@@ -1,6 +1,6 @@
 <template>
   <Layout>
-    <form id="contact" name="contact" action="/pages/success" method="POST" data-netlify="true">
+    <form id="contact" name="contact" action="/success/" method="POST" data-netlify="true">
       <h2>Contact Form</h2>
       <em>Questions? Comments? Inquiries? Feel free to use this form or send emails to runawaymaryk@gmail.com and I will get back to you as soon as possible!</em>
       <input type="hidden" name="form-name" value="contact">
@@ -23,7 +23,7 @@
   #contact{
     color: white;
     font-size: 13pt;
-    background-color: rgb(1, 1, 49);
+    background-color: rgb(2, 2, 17);
     background-size:auto;
     border: 2px solid white;
     margin: 5px;
