@@ -7,7 +7,7 @@
     <div id="blurb">
       <h2>Welcome to Run Away Next!</h2>
       <p>I'm Mary, and I love running away. Not necessarily from anything, but toward my next adventure! Whether this is in a national park or a big city, I love exploring new places and hope to inspire you all to do the same.</p>
-      <router-link to="/about/"><button>READ THE FULL STORY</button></router-link>
+      <g-link to="/about/"><button>READ THE FULL STORY</button></g-link>
     </div>
     </Layout>
   </div>

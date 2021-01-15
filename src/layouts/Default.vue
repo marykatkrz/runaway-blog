@@ -5,17 +5,17 @@
       <div class="dropdown">
       <button class="dropbtn"><font-awesome :icon="['fas', 'bars']" /></button>
       <div class="dropdown-content">      
-        <a href="/">Home</a>
-        <a href="/about/">About</a>
-        <a href="/blog/">Blog</a>
-        <a href="/contact/">Contact</a>
+        <g-link to="/">Home</g-link>
+        <g-link to="/about/">About</g-link>
+        <g-link to="/blog/">Blog</g-link>
+        <g-link to="/contact/">Contact</g-link>
       </div>
       </div>     
-      <a href="/">
+      <g-link to="/">
       <div id="logo">
         <g-image id="img" src="~/assets/logo.png" width="200"/>
       </div>
-      </a>  
+      </g-link>  
       <div>
         <h1 id="phrase">Where will you run away next?</h1>   
         <h2 id="tag">A Travel Planning Site</h2>
@@ -24,7 +24,7 @@
       <slot/>
     <footer>
       <h4><em>Run Away Next 2020</em></h4>
-       <a href="https://www.instagram.com/runawaynext/" target="_blank"><font-awesome :icon="['fab', 'instagram']"/></a> 
+       <g-link href="https://www.instagram.com/runawaynext/" target="_blank"><font-awesome :icon="['fab', 'instagram']"/></g-link> 
     </footer>
   </div>
 </template>
