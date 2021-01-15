@@ -23,7 +23,7 @@ query Post ($path: String!) {
       path
       date 
       content
-      featureimg (width: 720, height: 200, quality: 90)
+      featureimg 
   }
 }
 </page-query>
