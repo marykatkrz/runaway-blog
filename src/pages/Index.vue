@@ -10,8 +10,7 @@
       <g-link to="/about/"><button>READ THE FULL STORY</button></g-link>
     </div>
     </Layout>
-  </div>
-    
+  </div>   
 </template>
 <script>
 import Layout from "~/layouts/Default.vue"

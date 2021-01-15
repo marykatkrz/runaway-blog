@@ -1,6 +1,5 @@
 <template>
   <div class="Layout">
-    <head></head>
     <header class="header">
       <div class="dropdown">
       <button class="dropbtn"><font-awesome :icon="['fas', 'bars']" /></button>
@@ -24,7 +23,7 @@
       <slot/>
     <footer>
       <h4><em>Run Away Next 2020</em></h4>
-       <g-link href="https://www.instagram.com/runawaynext/" target="_blank"><font-awesome :icon="['fab', 'instagram']"/></g-link> 
+       <g-link to="https://www.instagram.com/runawaynext/" target="_blank"><font-awesome :icon="['fab', 'instagram']"/></g-link> 
     </footer>
   </div>
 </template>
