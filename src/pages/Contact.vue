@@ -23,7 +23,7 @@
   #contact{
     color: white;
     font-size: 13pt;
-    background-image: url("~@/assets/maps.jpg");
+    background-color: rgb(1, 1, 49);
     background-size:auto;
     border: 2px solid white;
     margin: 5px;

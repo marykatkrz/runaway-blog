@@ -47,7 +47,8 @@ export default {
   color: rgb(255, 167, 4);
 }
 .featureimg{
-  height: 250px;
+  height: auto;
+  width: 200px;
 }
 @media (max-width: 770px){
    .post-list{

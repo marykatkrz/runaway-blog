@@ -17,7 +17,7 @@
       </g-link>  
       <div>
         <h1 id="phrase">Where will you run away next?</h1>   
-        <h2 id="tag">A Travel Planning Site</h2>
+        <h2 id="tag">A Travel Site</h2>
       </div>
     </header>
       <slot/>
