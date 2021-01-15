@@ -46,6 +46,9 @@ export default {
 .post-list a:hover{
   color: rgb(255, 167, 4);
 }
+.featureimg{
+  height: 250px;
+}
 @media (max-width: 770px){
    .post-list{
     height: 375px;
