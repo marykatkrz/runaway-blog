@@ -6,6 +6,7 @@
 
 module.exports = {
   siteName: 'Run Away Next',
+  siteUrl: 'https://www.runawaynext.com/',
   plugins: [
     {
       use: '@gridsome/source-filesystem',

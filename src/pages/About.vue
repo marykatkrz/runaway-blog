@@ -14,7 +14,7 @@
         <h3>Where will you Run Away Next?</h3>
       </div>
       <div>
-      <g-image id="tip" src="~/tippy.jpg"/>
+      <g-image id="tip" src="~/assets/tippy.jpg"/>
       </div>
     </div>
   </Layout>
