@@ -41,10 +41,13 @@ query Post ($path: String!) {
     font-size: 13pt;
     padding: 10px;
   }
+
+  
   @media (max-width: 770px){
     .post-image{
       width: 80%;
     }
+  
   }
   @media(min-width: 770px){
   #return{

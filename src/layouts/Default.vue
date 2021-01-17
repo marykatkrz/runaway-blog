@@ -58,12 +58,16 @@ footer a{
   font-family: 'Dancing Script', cursive;
   letter-spacing: 1px;
 }
-
+ 
 @media (max-width: 770px){
 button{
   color: rgb(0, 0, 85);
   border: none; 
 }
+.post-content img{
+    width: 300px;
+}
+
 .Layout{
   margin: 15px;
   padding: 10px;
@@ -117,7 +121,11 @@ a:hover{
   .Layout{
   margin: 40px 50px;
   padding: 30px;
-  }
+}
+
+  .post-content img{
+    width: 600px;
+}
   #logo{
   width: 200px;
   height: 200px;

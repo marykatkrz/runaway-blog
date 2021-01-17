@@ -10,7 +10,7 @@
         <h3>IT WAS EPIC</h3>
         <p>Soon we made it to Portland and I have spent the past couple of years exploring the beautiful Pacific Northwest. It's home. <strong>Until the next time I move, of course.</strong></p>
         <p>Run Away Next started as a project to add to my resume (I wanted to test my coding skills!) Now I am expanding it into something a bit more, a resource for traveling with fun activities to engage in on your travels. Please, browse through the blog and see if anything catches your eye!</p>
-        <p>Now I ask you this:</p>
+        <p>And now I leave you with this:</p>
         <h3>Where will you Run Away Next?</h3>
       </div>
       <div>
