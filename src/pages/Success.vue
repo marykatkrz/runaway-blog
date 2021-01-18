@@ -4,6 +4,7 @@
     <p>Your form has submitted.</p>
     <div id="return">
       <a href="/">Back to Home</a>
+      <g-image id="plane" src="~/assets/plane.jpg"></g-image>
     </div>
   </Layout>
 </template>
@@ -11,4 +12,7 @@
     h2{
         margin: 100px;
     }
+    #plane{
+        width: 80%;
+}
 </style>
