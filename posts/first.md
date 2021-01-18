@@ -12,14 +12,13 @@ I, like many others, didn't know where this blog was going to go. As I said in m
 
 Well, I am not sure that I have that answer. But I do have an idea.
 
-Back in September, my fiance and I went on a weekend camping trip to the central Oregon coast. We are not ones to plan out an entire getaway from start to finish, but we did have a list of things we wanted to do and see. We knew we wanted to rent ATVs on the Oregon dunes, drink Scotch on the beach, and go to the lookout in the State Park that we were exploring, but we didn't have a set timeline of when to do it all. We managed to squeeze it all at our own pace and it was one of the best trips we had been on together. It wasn't until the weekend that we realized exactly what we had done - completed a scavenger hunt!
+Back in September, my fiance and I went on a weekend camping trip to the central Oregon coast. We are not ones to plan out an entire getaway from start to finish, but we did have a list of things we wanted to do and see. We knew we wanted to rent ATVs on the Oregon dunes, drink Scotch on the beach, and go to the lookout in the State Park that we were exploring, but we didn't have a set timeline of when to do it all. We managed to squeeze it all at our own pace and it was one of the best trips we had been on together. It wasn't until the weekend ended that we realized exactly what we had done - completed a scavenger hunt!
 
-And that is how an idea is born. 
+And that is how an idea was born. 
 
 I hope to use this platform to create some kind of "scavenger hunt" for various locations, along with opportunities to learn something about the area. 
 
 Super excited to do some work and learn a bit more about new places myself. Run Away Next is back, baby!
 
-<!-- 
-![](/images/uploads/next.jpg) -->
+
 <img src=/images/uploads/next.jpg />

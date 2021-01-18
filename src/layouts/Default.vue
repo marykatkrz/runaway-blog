@@ -6,6 +6,7 @@
       <div class="dropdown-content">      
         <g-link to="/">Home</g-link>
         <g-link to="/about/">About</g-link>
+        <g-link to="/rules/">Scavenger Hunt Rules</g-link>
         <g-link to="/blog/">Blog</g-link>
         <g-link to="/contact/">Contact</g-link>
       </div>
@@ -66,6 +67,7 @@ button{
 }
 .post-content img{
     width: 300px;
+    text-align: center;
 }
 
 .Layout{

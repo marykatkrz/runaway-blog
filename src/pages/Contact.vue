@@ -41,7 +41,7 @@
       font-size: 14pt;
       padding: 8px;
       width: 25%;
-      background:  rgb(12, 58, 70) ;
+      background:  rgb(12, 58, 70);
       color: white;
       border: none;
       border-radius: 4pt;
