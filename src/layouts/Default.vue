@@ -6,7 +6,7 @@
       <div class="dropdown-content">      
         <g-link to="/">Home</g-link>
         <g-link to="/about/">About</g-link>
-        <g-link to="/rules/">Scavenger Hunt Rules</g-link>
+        <g-link to="/rules/">Rules</g-link>
         <g-link to="/blog/">Blog</g-link>
         <g-link to="/contact/">Contact</g-link>
       </div>
@@ -18,7 +18,7 @@
       </g-link>  
       <div>
         <h1 id="phrase">Where will you run away next?</h1>   
-        <h2 id="tag">A Travel Site</h2>
+        <h2 id="tag">Travel Scavenger Hunts</h2>
       </div>
     </header>
       <slot/>
