@@ -6,7 +6,7 @@
       <div class="dropdown-content">      
         <g-link to="/">Home</g-link>
         <g-link to="/about/">About</g-link>
-        <g-link to="/rules/">Rules</g-link>
+        <g-link to="/rules/">Adventure Guidelines</g-link>
         <g-link to="/blog/">Blog</g-link>
         <g-link to="/contact/">Contact</g-link>
       </div>

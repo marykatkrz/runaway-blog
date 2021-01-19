@@ -17,7 +17,7 @@ export default {
 </script>
 <page-query>
  query {
-  allPost (sortBy: "date", order: ASC){
+  allPost (sortBy: "date", order: DESC){
     totalCount
     edges {
       node {

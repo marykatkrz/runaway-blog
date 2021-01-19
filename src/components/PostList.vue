@@ -20,13 +20,12 @@ export default {
   height: 10%
 }
 .description{
-  height: 10%;
-  padding: 10px;
+  height: 6%;
 }
 .post-list{
   background: rgb(12, 58, 70);
   color:rgb(235, 235, 235);
-  padding: 30px;
+  padding: 20px;
   margin: 20px;
   text-align: center;
   border-radius: 4pt;
@@ -34,7 +33,7 @@ export default {
   box-shadow: 0px 0px 15px 3px grey;
 }
 .post-list:hover{
-  padding: 32px;
+  padding: 25px;
   transition-duration: 0.5s; 
   background: rgb(30, 108, 128);
   box-shadow: 0px 0px 15px 10px grey;
@@ -58,7 +57,7 @@ export default {
 @media(min-width: 770px){
   .post-list{
     width: 25%;
-    height: 450px;
+    height: 400px;
   }
   .featureimg{
     height: 200px;

@@ -1,7 +1,8 @@
 <template>
   <Layout>
     <div class="rules">
-      <h1>Scavenger Hunt Rules</h1>
+      <em>As we travel in Covid times, please respect the rules of each state. If possible, postpone trips until a later date. But please use these lists as a resource for planning your next great adventure!</em>
+      <h1>Rules are boring - so here are some "guidelines" for your adventure!</h1>
       <p><em><b>1. Okay, so it may be kinda cheesy - but the first rule is that there aren’t really any rules.</b></em></p>
       <p>The point of creating these adventure games is to keep traveling fun and loose. 	The idea is to have things you want to see and do in mind, but to not stress about planning every second of your trip. If you are the type to plan everything out, that’s fine too! I hope you find these tips useful in your planning. </p>
       <p><em><b>2. Don’t overthink it!</b></em></p>
