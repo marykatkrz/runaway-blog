@@ -45,14 +45,15 @@ export default {
 .post-list a:hover{
   color: rgb(255, 167, 4);
 }
-.featureimg{
+
+@media (max-width: 770px){
+   .post-list{
+    height: 500px;
+  }
+  .featureimg{
   height: auto;
   width: 200px;
 }
-@media (max-width: 770px){
-   .post-list{
-    height: 375px;
-  }
 }
 @media(min-width: 770px){
   .post-list{

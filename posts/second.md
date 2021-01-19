@@ -14,7 +14,7 @@ The list was compiled based off of research, but this is also one of those place
 
 Let's start in the Upper Peninsula, shall we? Or, as us native Michiganders say, "Da U.P." (Seriously, I don't remember ever hearing it called anything else.) The U.P. is where you go to visit **Lake Superior**, the largest freshwater lake in the country. A Michigan scavenger hunt would be incomplete without seeing the beautiful wonder that is this lake. 
 *****
-Located on an island in Lake Superior is **Isle Royale National Park**, one of the most remote national parks in the nation. In fact, it is so remote that you have to get there by plane or boat!
+Located on an island in Lake Superior is **Isle Royale National Park**, one of the most remote national parks in the nation. In fact, it is so remote that you have to get there by boat or plane!
 *****
 While you're near Lake Superior, you have to check out **Pictured Rocks National Lakeshore**. This is one of the top things you can do in the state, so I wouldn't miss this if you are nearby.
 *****
@@ -32,7 +32,7 @@ As you round the corner from the bridge, you may want to check out Traverse City
 *****
 Named after the dune that looks like a sleeping bear, **Sleeping Bear Dunes National Lakeshore** is also a must see. We grew up learning about the legend of this place and it most definitely belongs on this list.  
 *****
-Don't forget to make your way inland a bit to check out Grand Rapids, though. Known as **Beer City USA**, you will not have a difficult time finding unique Michigan brews.
+Don't forget to make your way inland a bit to check out **Grand Rapids**. Known as **Beer City USA**, you will not have a difficult time finding unique Michigan brews.
 *****
 If the timing is right, the Dutch village of Holland, Michigan hosts one of the best **tulip festivals** in the world. 
 *****
@@ -44,7 +44,7 @@ Cutting across the bottom half of the state (my stopping grounds!) will eventual
 *****
 Also in the Detroit area is **Belle Isle Park**. Home to an aquarium, conservatory, zoo, and golf course, you will not be bored visiting this isle. 
 *****
-Heading north you will find the cute Bavarian Village of **Frankenmuth**. Not only is the town fun to explore, but it is also home to the **"World's Largest Christmas Store"**. It doesn't matter if it's the holidays or not, this store is worth seeing all year round.
+Heading north you will find the cute Bavarian village of **Frankenmuth**. Not only is the town fun to explore, but it is also home to the **"World's Largest Christmas Store"**. It doesn't matter if it's the holidays or not, this store is worth seeing all year round.
 *****
 Last but certainly not least, we'll head up to the "thumb" of Michigan. It is here that you will find **Turnip Rock**. It's, well, a rock that looks like a turnip! A seven mile kayak trip on Lake Huron is worth it to see this geological wonder. 
 
