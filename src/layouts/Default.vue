@@ -23,7 +23,7 @@
     </header>
       <slot/>
     <footer>
-      <h4><em>Run Away Next 2020</em></h4>
+      <h4><em>Run Away Next 2021</em></h4>
        <g-link to="https://www.instagram.com/runawaynext/" target="_blank"><font-awesome :icon="['fab', 'instagram']"/></g-link> 
     </footer>
   </div>

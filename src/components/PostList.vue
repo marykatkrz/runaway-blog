@@ -1,11 +1,14 @@
 <template> 
+<div class="post">
+<g-link :to="post.path">
   <div class="post-list">
-    <g-link :to="post.path"><h3 class="title" v-html="post.title"/></g-link>
+    <h3 class="title" v-html="post.title"/>
     <em><p class="date" v-html="post.date"/></em>
     <g-image class="featureimg" :src="post.featureimg"/>
     <p class="description" v-html="post.description"/>
-    <g-link :to="post.path" class="read">Read More </g-link>
   </div>
+ </g-link>
+ </div>
 </template>
 
 <script>
@@ -16,52 +19,58 @@ export default {
 
 <style scoped>
 .title{
-  font-size: 18pt; 
-  height: 10%
+  font-size: 16pt; 
+
 }
 .description{
-  height: 6%;
+  height: 4%;
 }
-.post-list{
+.post{
   background: rgb(12, 58, 70);
   color:rgb(235, 235, 235);
-  padding: 20px;
+  padding: 10px;
   margin: 20px;
   text-align: center;
   border-radius: 4pt;
-  font-size: 13pt;
+  font-size: 12pt;
   box-shadow: 0px 0px 15px 3px grey;
 }
-.post-list:hover{
-  padding: 25px;
+.post:hover{
+  padding: 15px;
   transition-duration: 0.5s; 
   background: rgb(30, 108, 128);
   box-shadow: 0px 0px 15px 10px grey;
 }
-.post-list a{
+.post a{
   color:rgb(235, 235, 235);
   text-decoration: none;
 }
-.post-list a:hover{
+.post a:hover{
   color: rgb(255, 167, 4);
 }
 
 @media (max-width: 770px){
-   .post-list{
-    height: 500px;
+   .post{
+    height: 300px;
   }
   .featureimg{
-  height: auto;
-  width: 200px;
+  height: 150px;
+  width: auto;
 }
+  .title{
+    height: 30px;
+  }
 }
 @media(min-width: 770px){
-  .post-list{
+  .post{
     width: 25%;
-    height: 400px;
+    height: auto;
   }
   .featureimg{
     height: 200px;
+  }
+  .title{
+    height: 40px;
   }
 }
 </style>
