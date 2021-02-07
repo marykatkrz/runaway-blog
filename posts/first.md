@@ -1,7 +1,7 @@
 ---
 title: "New Year, New Ideas!"
 description: "Revamping Run Away Next"
-date: January 10th, 2021
+date: 1/10/2021
 featureimg: /images/uploads/jefferson.jpg
 ---
 Happy New Year!

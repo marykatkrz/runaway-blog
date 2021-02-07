@@ -1,7 +1,7 @@
 ---
 title: "Michigan: The Superior Lake State"
 description: "A scavenger hunt for Michigan"
-date: January 18th, 2021
+date: 1/18/2021
 featureimg: /images/uploads/misun.jpg
 ---
 <h2>PDF: <a href="/images/uploads/mihunt.pdf" target="_blank">Michigan Adventure Hunt</a></h2>

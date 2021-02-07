@@ -18,7 +18,7 @@
 <page-query>
 query Post ($path: String!) {
   post: post (path: $path) {
-      id
+      id 
       title
       path
       date 
@@ -42,7 +42,9 @@ query Post ($path: String!) {
     padding: 10px;
   }
 
-  
+  .post-image{
+     border: 8px solid white;
+  }
   @media (max-width: 770px){
     .post-image{
       width: 80%;

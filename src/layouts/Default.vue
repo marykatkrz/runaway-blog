@@ -39,6 +39,7 @@
 img{
   width: auto;
   height: 100%;
+  
 }
 #logo{
   display: inline-block;

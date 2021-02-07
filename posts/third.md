@@ -1,7 +1,7 @@
 ---
 title: "A Tennessee Adventure"
 description: "A scavenger hunt for Tennessee"
-date: January 24th, 2021
+date: 1/24/2021
 featureimg: /images/uploads/nash.jpg
 ---
 <h2>PDF: <a href="/images/uploads/TNhunt.pdf" target="_blank">Tennessee Adventure Hunt</a></h2>

@@ -26,27 +26,28 @@ export default {
   height: 4%;
 }
 .post{
-  background: rgb(12, 58, 70);
-  color:rgb(235, 235, 235);
+  background: white;
+  color: rgb(0, 0, 85);
   padding: 10px;
   margin: 20px;
   text-align: center;
-  border-radius: 4pt;
+  border-radius: 8pt;
   font-size: 12pt;
   box-shadow: 0px 0px 15px 3px grey;
 }
 .post:hover{
-  padding: 15px;
+  padding: 12px;
   transition-duration: 0.5s; 
   background: rgb(30, 108, 128);
   box-shadow: 0px 0px 15px 10px grey;
+  border: 1px solid white;
 }
 .post a{
-  color:rgb(235, 235, 235);
+  color: rgb(0, 0, 85);
   text-decoration: none;
 }
-.post a:hover{
-  color: rgb(255, 167, 4);
+.date{
+  height: 12pt;
 }
 
 @media (max-width: 770px){
@@ -54,7 +55,7 @@ export default {
     height: 300px;
   }
   .featureimg{
-  height: 150px;
+  height: 100px;
   width: auto;
 }
   .title{
@@ -67,7 +68,7 @@ export default {
     height: auto;
   }
   .featureimg{
-    height: 200px;
+    height: 150px;
   }
   .title{
     height: 40px;
