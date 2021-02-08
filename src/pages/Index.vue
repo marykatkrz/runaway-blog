@@ -9,6 +9,11 @@
       <p>I'm Mary, and I love running away. Not necessarily from anything, but toward my next adventure! Whether this is in a national park or a big city, I love exploring new places and hope to inspire you all to do the same.</p>
       <g-link to="/about/"><button>READ THE FULL STORY</button></g-link>
     </div>
+    <div id="blurb">
+      <h2>What are Adventure Scavenger Hunts?</h2>
+      <p>These hunts give you an outline of things to do an see in an area. Sometimes they will be specific (Visit Crater Lake!) and other times they will be more general (soak in a hot spring). It is up to YOU how you want to cross the item off the list.</p>
+      <g-link to="/blog/"><button>SEE THE SCAVENGER HUNTS</button></g-link>
+    </div>
     </Layout>
   </div>   
 </template>
