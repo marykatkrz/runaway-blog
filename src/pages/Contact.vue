@@ -23,7 +23,7 @@
   #contact{
     color: white;
     font-size: 13pt;
-    background-color: rgb(2, 2, 17);
+    background: rgb(30, 108, 128);
     background-size:auto;
     border: 2px solid white;
     margin: 5px;

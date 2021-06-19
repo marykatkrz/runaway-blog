@@ -13,6 +13,9 @@
       <p v-html="$page.post.content" />
     </div>
     </div>
+     <div id="return">
+      <a href="/blog">Back to Blogs</a>
+    </div>
   </Layout>
 </template>
 <page-query>
@@ -59,7 +62,7 @@ query Post ($path: String!) {
     width: 400px;
   }
   .post-content{
-    padding: 20px 150px;
+    padding: 20px 200px;
   }
   }
 </style>

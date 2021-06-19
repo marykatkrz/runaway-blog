@@ -36,7 +36,6 @@ export default {
   box-shadow: 0px 0px 15px 3px grey;
 }
 .post:hover{
-  padding: 12px;
   transition-duration: 0.5s; 
   background: rgb(30, 108, 128);
   box-shadow: 0px 0px 15px 10px grey;
